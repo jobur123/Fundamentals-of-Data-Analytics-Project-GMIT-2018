@@ -3,7 +3,9 @@
 This repository contains, primarily, a Jupyter notebook which investigates and explains box plots.
 
 The repository also contains:
-Box-plot.png  (an image of a boxplot)
+
+Box-plot.png  (an image of a boxplot) 
+
 AthenryMonthlyWeather.csv (the dataset used to create the boxplots)
 
 Both files are linked from github directly to the notebook. So you do not need to download them with 
